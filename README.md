@@ -1,1 +1,12 @@
 # CICD-with-Docker
+![IMG_0147](https://github.com/user-attachments/assets/33dd1f53-1307-414c-bfb6-9f7a882b5411)
+![IMG_0148](https://github.com/user-attachments/assets/2103b1b7-3e6c-4763-9b46-16cc1741732a)
+![IMG_0149](https://github.com/user-attachments/assets/c933d0de-3421-46c9-b37f-075ac2afe804)
+![IMG_0150](https://github.com/user-attachments/assets/37093a06-11cb-4640-80e5-6b5aa8c6a3ae)
+![IMG_0151](https://github.com/user-attachments/assets/6fe64d24-9407-46b7-816a-e27e26111e1b)
+![IMG_0152](https://github.com/user-attachments/assets/82728ba3-b98d-4315-956d-c9ca15ed6b9b)
+![IMG_0153](https://github.com/user-attachments/assets/e2cca2ed-c83a-477b-8bc2-717078b6ba37)
+![IMG_0154](https://github.com/user-attachments/assets/073e0665-935e-4bf5-8a27-0634204f36eb)
+![IMG_0155](https://github.com/user-attachments/assets/4d8e5097-5d9b-441c-8e39-073c947128bc)
+![IMG_0156](https://github.com/user-attachments/assets/4137dbe4-f14d-44df-b754-dce8b70be02a)
+![IMG_0157](https://github.com/user-attachments/assets/992fd20a-656f-4c63-8f0c-deea66474a46)
